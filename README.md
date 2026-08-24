@@ -117,21 +117,7 @@ const ajsal = {
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajsalfayis&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajsalfayis&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 💼 Work Experience
 
@@ -175,7 +161,7 @@ const ajsal = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🧪 **[OrangeHRM Manual Testing](https://github.com/ajsalfayis)** | Manual Testing · Excel · Bug Reporting | ✅ 25+ test cases across Login, Leave & Employee modules · 📄 RTM prepared · 🔁 Regression, Smoke, UI & Functional testing completed · 🐛 Defects documented with severity & priority |
+| 🧪 **[OrangeHRM Manual Testing](https://github.com/Ajsal-fayis/OrangeHRM-Manual-Testing)** | Manual Testing · Excel · Bug Reporting | ✅ 65+ test cases across Login, Leave & Employee modules · 📄 RTM prepared · 🔁 Regression, Smoke, UI & Functional testing completed · 🐛 Defects documented with severity & priority |
 | 🌐 **[OrangeHRM API Testing](https://github.com/ajsalfayis)** | Postman · REST API | 📡 Tested GET, POST, PUT, DELETE methods · ✔️ Validated status codes & response payloads · 📦 Postman collections with positive & negative test scenarios |
 | 🤖 **[Playwright Test Automation](https://github.com/ajsalfayis)** | Playwright · JavaScript | ⚡ Automated login flows with locators & assertions · 🧩 Page Object Model implementation · 📊 Execution reports generated · 📸 Failure screenshots captured |
 
