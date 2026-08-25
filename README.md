@@ -24,40 +24,21 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class AjsalFayis {
+Hi! I'm **Ajsal Fayis M**, an aspiring **Software QA Engineer / Automation Tester** from **Kerala, India 🇮🇳**.
 
-    String name = "Ajsal Fayis M";
-    String location = "Kerala, India 🇮🇳";
-    String role = "Aspiring QA / Software Tester";
+🎓 Currently pursuing **B.Tech in Computer Science Engineering**
 
-    String[] skills = {
-        "Manual Testing",
-        "Functional Testing",
-        "UI Testing",
-        "Smoke Testing",
-        "Regression Testing",
-        "Test Case Design",
-        "Bug Reporting",
-        "SDLC & STLC",
-        "SQL"
-    };
+🔍 I am passionate about **Software Testing and Quality Assurance** and enjoy exploring how applications work, identifying issues, designing test cases, and improving software quality.
 
-    String[] automation = {
-        "Java",
-        "Selenium WebDriver",
-        "Maven",
-        "Git & GitHub"
-    };
+🧪 My focus is on building practical experience through **Manual Testing, Test Case Design, Bug Reporting, and Test Automation**.
 
-    String[] currentlyLearning = {
-        "Selenium Automation",
-        "TestNG",
-        "Automation Frameworks",
-        "API Testing"
-    };
-}
-```
+🤖 Currently learning and improving my skills in **Selenium Automation, TestNG, Automation Frameworks, and API Testing**.
+
+🎯 **My Goal:** To become a skilled **Software QA / Automation Test Engineer** and contribute to building reliable, high-quality software.
+
+> 💡 **"Quality is never an accident; it is always the result of intelligent effort."**
+
+
 
 > 🎯 **My goal:** Build strong practical skills in software testing by creating real testing projects, writing meaningful test cases, finding defects, and learning automation step by step.
 
